@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"delay.h": "c",
+			"io.h": "c"
+		}
+	}
+}
